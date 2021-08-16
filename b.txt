@@ -1,1 +1,2 @@
 this is my file b
+add a new line for dev2 in GUI
